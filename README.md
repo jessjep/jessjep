@@ -1,10 +1,10 @@
-<h1 align=center> ✨ Hello ✨ </h1>
+Hi, I'm Jess 👋
 
-I'm interested in effective data visualization.
+I write about data for the Australian government. I worked as a copy editor for several years, and have an educational background in psychology and statistics. 
 
-I’m currently working on a blog/portfolio to showcase my growing number of personal projects. (jessjep.github.io)
+Right now, I’m focusing on building my data visualization skills in R by participating in #TidyTuesday. I enjoy experimenting with style and finding creative ways to present data that not only communicate information clearly but also encourage curiosity and further thought.
 
-I rely primarily on ggplot2 and the tidyverse in R to create my visualisations, but am learning more tools and techniques as I go.
+I share my projects knowing they’re not always perfect, as a way to challenge my perfectionist tendencies and keep progressing my learning.
 
 <!---
 jessjep/jessjep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
